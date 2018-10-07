@@ -30,3 +30,18 @@
     transform: rotate(360deg);
   }
 }
+.postImages>div{
+  font-size:18px;
+  position: static !important;
+
+}
+.postImages>.grid-container>.container:nth-child(1)>.row>.height-two{
+  max-height: 160px !important;
+}
+
+.postImages>.grid-container>.container:nth-child(2)>.row>.height-three{
+  max-height: 160px !important;
+}
+.cover-text{
+  font-size:26px !important;
+}
